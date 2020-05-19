@@ -12,12 +12,12 @@
 # Fill in the code for the functions below. main() is already set up
 # to call the functions with a few different inputs,
 # printing 'OK' when each function is correct.
-# The starter code for each function includes a 'return'
+# The starter code for each fundtion includes a 'return'
 # which is just a placeholder for your code.
 # It's ok if you do not complete all the functions, and there
 # are some additional functions to try in list2.py.
 
-# A. match_ends
+# A. match_ednds
 # Given a list of strings, return the count of the number of
 # strings where the string length is 2 or more and the first
 # and last chars of the string are the same.
